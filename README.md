@@ -1,7 +1,6 @@
 # TP Chaîne de transmission numérique (ENSIM 5A ASTRE)
 
-**Auteur :** Bilal Marghich
-**Cours :** Théorie de l'information et du codage, 2026-2027
+
 
 Modélisation et simulation sous Python d'une chaîne de transmission numérique en bande de base : codage de source (Huffman, Lempel-Ziv), chaîne de base et détecteur optimal, code de Hamming C(7,4), modulation QPSK, filtres en racine de cosinus surélevé et canal à deux trajets avec égaliseur.
 
