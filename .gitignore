@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Fichiers temporaires de Microsoft Office (présentation ouverte)
+~$*
+
+# Fichiers intermédiaires de LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# Systèmes
+.DS_Store
+Thumbs.db
+desktop.ini
